@@ -1,3 +1,13 @@
+const numbers = [arr];
+numbers.sort();
+
+
+const anim = [arr1];
+let anim2= anim.sort();
+anim2.reverse();
+
+
+
 /* 
 1. Bir dizideki sayıları küçükten büyüğe sıralamak için sort metodunu kullanın.
 
