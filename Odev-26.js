@@ -9,7 +9,7 @@ anim2.reverse();
 
 
 /* 
-1. Bir dizideki sayıları küçükten büyüğe sıralamak için sort metodunu kullanın.
+1. Bir dizideki sayıları küçükten büyüğe sıralamak için sort metodunu kullanın
 
 Örnek Dizi: [34, 7, 23, 32, 5, 62]
 
